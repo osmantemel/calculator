@@ -1,0 +1,22 @@
+C:\Users\osman\Desktop\özel\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe.config
+C:\Users\osman\Desktop\özel\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe
+C:\Users\osman\Desktop\özel\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.pdb
+C:\Users\osman\Desktop\özel\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.AssemblyReference.cache
+C:\Users\osman\Desktop\özel\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\osman\Desktop\özel\hesap makinesi\hesap makinesi\obj\Debug\hesap_makinesi.Form1.resources
+C:\Users\osman\Desktop\özel\hesap makinesi\hesap makinesi\obj\Debug\hesap_makinesi.Properties.Resources.resources
+C:\Users\osman\Desktop\özel\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.GenerateResource.cache
+C:\Users\osman\Desktop\özel\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\osman\Desktop\özel\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.exe
+C:\Users\osman\Desktop\özel\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.pdb
+C:\Users\osman\Documents\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe.config
+C:\Users\osman\Documents\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.exe
+C:\Users\osman\Documents\hesap makinesi\hesap makinesi\bin\Debug\hesap makinesi.pdb
+C:\Users\osman\Documents\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.AssemblyReference.cache
+C:\Users\osman\Documents\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\osman\Documents\hesap makinesi\hesap makinesi\obj\Debug\hesap_makinesi.Form1.resources
+C:\Users\osman\Documents\hesap makinesi\hesap makinesi\obj\Debug\hesap_makinesi.Properties.Resources.resources
+C:\Users\osman\Documents\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.GenerateResource.cache
+C:\Users\osman\Documents\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.csproj.CoreCompileInputs.cache
+C:\Users\osman\Documents\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.exe
+C:\Users\osman\Documents\hesap makinesi\hesap makinesi\obj\Debug\hesap makinesi.pdb

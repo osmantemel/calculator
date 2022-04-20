@@ -1,0 +1,8 @@
+C:\Users\ŞABAN\Desktop\C#\inlineif\inlineif\bin\Debug\inlineif.exe.config
+C:\Users\ŞABAN\Desktop\C#\inlineif\inlineif\bin\Debug\inlineif.exe
+C:\Users\ŞABAN\Desktop\C#\inlineif\inlineif\bin\Debug\inlineif.pdb
+C:\Users\ŞABAN\Desktop\C#\inlineif\inlineif\obj\Debug\inlineif.csproj.AssemblyReference.cache
+C:\Users\ŞABAN\Desktop\C#\inlineif\inlineif\obj\Debug\inlineif.csproj.SuggestedBindingRedirects.cache
+C:\Users\ŞABAN\Desktop\C#\inlineif\inlineif\obj\Debug\inlineif.csproj.CoreCompileInputs.cache
+C:\Users\ŞABAN\Desktop\C#\inlineif\inlineif\obj\Debug\inlineif.exe
+C:\Users\ŞABAN\Desktop\C#\inlineif\inlineif\obj\Debug\inlineif.pdb
